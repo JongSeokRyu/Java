@@ -1,4 +1,4 @@
-package BlockChainPract.core;
+package JavaStudy.BlockChainPract.core;
 
 public class Block {
 	

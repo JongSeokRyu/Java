@@ -1,6 +1,6 @@
-package BlockChainPract.core;
+package JavaStudy.BlockChainPract.core;
 
-import BlockChainPract.util.Util;
+import JavaStudy.BlockChainPract.util.Util;
 
 public class BlockCainStarter {
 

@@ -1,4 +1,4 @@
-package BlockChainPract.util;
+package JavaStudy.BlockChainPract.util;
 
 import java.security.MessageDigest;
 
